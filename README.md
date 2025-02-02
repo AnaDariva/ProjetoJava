@@ -1,5 +1,5 @@
 # PROJETO_FINAL_JAVA
-Sistema de Gerenciamento de atividades para aula de Programação Orientada a Objetos
+Sistema de Gerenciamento de tarefas para aula de Programação Orientada a Objetos
 
 Especificação do Trabalho
 Objetivo
